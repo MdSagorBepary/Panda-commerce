@@ -1,0 +1,54 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.container{
+    margin-bottom:60px;
+
+}
+.bg-background-carousel{
+    background-color: #FEEAE9;
+
+}
+.buy-now-button{
+    padding:10px 20px;
+    text-decoration: none;
+    color:white;
+    border-radius: 5px;
+    background-image: linear-gradient(to bottom, deeppink,crimson);
+}
+.shoes-bg,.bags-bg,.watches-bg{
+margin-bottom: 10px;
+}
+.shoes-bg{
+    background-image: linear-gradient(to right, #4278FF,#3F07F8);
+    border-radius: 5px;
+}
+.bags-bg{
+    background-image: linear-gradient(to right, #FF4790,#FF2A7E);
+    border-radius: 5px;
+}
+.watches-bg{
+    background-image: linear-gradient(to right, #FF9C35,#FFD019);
+    border-radius: 5px;
+}
+.myown-bg{
+    width: 100%;
+    background-color: #F8F8F8;
+}
+.shoe-1,.shoe-2{
+    margin-bottom: 10px;
+}
+.shoes-title{
+    margin-left: 45px;
+}
+.my-cat-link{
+    margin-right: 5rem;
+    display: block;
+}
+.my-footer{
+    background-color: #FEEAE9;
+    border-radius: 5px;
+}
